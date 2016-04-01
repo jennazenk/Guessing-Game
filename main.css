@@ -107,8 +107,7 @@ background:url(bouton-noir2.png) no-repeat;
 
 p {
 	text-align: center;
-	margin-left: 635px;
-    margin-right: auto;
+	margin-left: 525px;
 }
 
 .txt {
@@ -119,3 +118,34 @@ p {
 	color: red;
 	font-size: 20px;
 }
+
+
+
+#guessMessage {
+	margin: 0;
+	text-align: center;
+	background: white;
+	color:black;
+	font-family: palatino;
+	font-size: 50px;
+}
+
+#domMessage {
+	margin: 0;
+	text-align: center;
+	background: white;
+	color:black;
+	font-family: palatino;
+	font-size: 50px;
+}
+
+#hintMessage {
+	margin: 0;
+	text-align: center;
+	background: white;
+	color:green;
+	font-family: palatino;
+	font-size: 50px;
+}
+
+
